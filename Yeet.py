@@ -8,7 +8,7 @@ print("   #+#    #+#        #+#            #+#          	      ")
 print("   ###    ########## ##########     ###     	   Version 1.0")
 print("\n")
 print("---------------------------------------------------------------")
-print("Made by NEONGASHMEN to crack question paper password in college")
+print("Personalised password generator for bruteforcing")
 print("---------------------------------------------------------------")
 print()
 
