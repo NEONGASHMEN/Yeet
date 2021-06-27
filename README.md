@@ -7,8 +7,8 @@ Similar to cupp, but incorporates much more robust control over the words genera
 
 ### Usage:
 
-Rep.txt:  Add words that are to be repeated inside the password (one per line)
+Words.txt:  Add words that are to be repeated inside the password (one per line)
 
-Non_rep.txt:  Add words that occur only once inside the password (one per line)
+Symbols.txt:  Add symbols that are inside the password (one per line)
 
 <pr><code>python3 Yeet.py</code></pr>
