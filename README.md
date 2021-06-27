@@ -3,7 +3,7 @@ Custom wordlist generator
 
 NB: CURRENTLY IN BETA STAGE (Currently advised to limit input & welcome to create a pull request)
 
-Similar to cupp, but incorporates much more robust control over the words generated. But currently has issues with memory consumption.
+Similar to cupp, but incorporates much more robust control over the words generated.
 
 ### Usage:
 
