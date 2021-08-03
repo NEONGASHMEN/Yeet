@@ -1,9 +1,9 @@
 # Yeet
 Custom wordlist generator
 
-NB: CURRENTLY IN BETA STAGE (Currently advised to limit input & welcome to create a pull request) Do check Yeet 2.0, much more efficient program
+NB: DROPPED !! CHECK https://github.com/NEONGASHMEN/Yeet-2.0 FOR REVISED VERSION
 
-Similar to cupp, but incorporates much more robust control over the words generated. But currently has issues with memory consumption.
+(If running this, please limit the input)
 
 ### Usage:
 
